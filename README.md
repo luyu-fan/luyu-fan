@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+I'm a post-graduated student major in computer science. In fact, I can design and implement a website with deploying a backend server written in Go, or do some computer vision researches in AI. However, my expected career is being an outstanding game server developer, which makes me creative and full of passion, I love it!
+
+#### The Core of Star
+
+Here is my simple game demo, a MO shooting game developed by Unity.  
+![TheCoreOfStar](gifs/TheCoreofStar_Part1.gif)
+![TheCoreOfStar](gifs/TheCoreofStar_Part2.gif)
+
+🌱 I’m a Gopher.
+🤔 I’m seeking for a job.
+😄 Coding for fun, coding for a better world!
+
 <!--
 **luyu-fan/luyu-fan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
