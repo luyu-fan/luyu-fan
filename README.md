@@ -8,9 +8,9 @@ Here is my simple game demo, a MO shooting game developed by Unity.
 ![TheCoreOfStar](gifs/TheCoreofStar_Part1.gif)
 ![TheCoreOfStar](gifs/TheCoreofStar_Part2.gif)
 
-🌱 I’m a Gopher.
-🤔 I’m seeking for a job.
-😄 Coding for fun, coding for a better world!
+🌱 I’m a Gopher ...</br>
+🤔 I’m seeking for a job ...</br>
+😄 Coding for fun, coding for a better world!</br>
 
 <!--
 **luyu-fan/luyu-fan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
