@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-I'm a post-graduated student major in computer science. In fact, I can design and implement a website with deploying a backend server written in Go, or do some computer vision researches in AI. However, my expected career is being an outstanding game server developer, which makes me creative and full of passion, I love it!
+I'm a post-graduated student major in computer science. In fact, I can design and implement a website with deploying a backend server written in Go, or do some computer vision tasks in AI. However, my expected career is being an outstanding game server developer, which makes me creative and full of passion, I love it!
 
 #### The Core of Star
 
-Here is my simple game demo, a MO shooting game developed by Unity.  
-![TheCoreOfStar](gifs/TheCoreofStar_Part1.gif)
-![TheCoreOfStar](gifs/TheCoreofStar_Part2.gif)
+Here is my simple game demo, a MO shooting game developed by Unity (not completed).
+![TheCoreOfStar](gifs/Screen.png)
+or you can download the [gif1](gifs/TheCoreofStar_Part1.gif)
+and [gif2](gifs/TheCoreofStar_Part2.gif)
 
 🌱 I’m a Gopher ...</br>
 🤔 I’m seeking for a job ...</br>
