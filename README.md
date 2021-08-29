@@ -7,7 +7,7 @@ I'm a post-graduated student major in computer science. In fact, I can design an
 Here is my simple game demo, a MO-FPS game developed by Unity (not completed).
 ![TheCoreOfStar](gifs/Screen.png)
 or you can download the [gif1](gifs/TheCoreofStar_Part1.gif)
-and [gif2](gifs/TheCoreofStar_Part2.gif)
+and [gif2](gifs/TheCoreofStar_Part2.gif).
 
 🌱 I’m a Gopher ...</br>
 🤔 I’m seeking for a job ...</br>
