@@ -9,8 +9,6 @@ Here is my simple game demo, a MO-FPS game developed by Unity (not completed).
 or you can download the [gif1](gifs/TheCoreofStar_Part1.gif)
 and [gif2](gifs/TheCoreofStar_Part2.gif).
 
-🌱 I’m a Gopher ...</br>
-🤔 I’m seeking for a job ...</br>
 😄 Coding for fun, coding for a better world!</br>
 
 <!--
