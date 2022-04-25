@@ -10,7 +10,7 @@ Here is my simple game demo, a MO-FPS game developed by Unity (not completed, wh
 
 or you can download the [demo1](gifs/TheCoreofStar_Part1.gif) and [demo2](gifs/TheCoreofStar_Part2.gif).
 
-- 😄 Coding for fun, coding for a better world!
+😄 Coding for fun, coding for a better world!
 
 <!--
 **luyu-fan/luyu-fan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
