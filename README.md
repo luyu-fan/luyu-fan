@@ -8,7 +8,7 @@ Here is my simple game demo, a MO-FPS game developed by Unity (not completed, wh
 
 ![TheCoreOfStar](gifs/Screen.png)
 
-or you can download the ![demo1](./gifs/TheCoreofStar_Part1.gif) and ![demo2](./gifs/TheCoreofStar_Part2.gif).
+or you can download the [demo1](./gifs/TheCoreofStar_Part1.gif) and [demo2](./gifs/TheCoreofStar_Part2.gif).
 
 😄 Coding for fun, coding for a better world!
 
