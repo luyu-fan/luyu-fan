@@ -2,7 +2,7 @@
 
 I'm a post-graduated student major in computer science. In fact, I can design and implement a website with deploying a backend server written in Go, or do some computer vision tasks in Deep Learning. However, my expected career is being an outstanding game server developer, which makes me creative and full of passion, I love it!
 
-#### <星核之心:TheCoreOfStar>
+#### :video_game:星核之心
 
 Here is my simple game demo, a MO-FPS game developed by Unity (not completed, what a pity).
 
